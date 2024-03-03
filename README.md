@@ -1,6 +1,5 @@
 # Project Starter Kit
 
-![Project Starter Kit Logo](https://example.com/logo.png)
 
 ## Description
 
@@ -31,7 +30,7 @@ Let's make hardware project setup hassle-free and enjoyable. Happy building!
 To get started with the Project Starter Kit, simply clone this repository to your local machine and explore the resources provided.
 
 ```bash
-git clone https://github.com/your-username/project-starter-kit.git
+git clone github.com/alirezaagha30/PCB-Project-Template.git
 ```
 
 ## Contributors
