@@ -5,15 +5,15 @@ Our repository is designed to streamline the process of setting up a hardware pr
 
 Inside this repository, you'll find:
 
-    Project Templates: Pre-configured project templates tailored to different hardware platforms and project types. These templates serve as starting points, saving you time and effort in setting up the basic project structure.
+Project Templates: Pre-configured project templates tailored to different hardware platforms and project types. These templates serve as starting points, saving you time and effort in setting up the basic project structure.
 
-    Documentation: Comprehensive guides and documentation to help you understand the project setup, including installation instructions, hardware requirements, and troubleshooting tips.
+Documentation: Comprehensive guides and documentation to help you understand the project setup, including installation instructions, hardware requirements, and troubleshooting tips.
 
-    Sample Code: Ready-to-use sample code snippets and examples to demonstrate key functionalities and best practices for hardware projects.
+Sample Code: Ready-to-use sample code snippets and examples to demonstrate key functionalities and best practices for hardware projects.
 
-    Dependencies: A list of essential dependencies and libraries required to run the project smoothly, along with installation instructions and version compatibility details.
+Dependencies: A list of essential dependencies and libraries required to run the project smoothly, along with installation instructions and version compatibility details.
 
-    Contributing Guidelines: We welcome contributions from the community to enhance and expand this repository. Whether it's adding new templates, improving documentation, or fixing bugs, your contributions are invaluable in making this resource more useful for everyone.
+Contributing Guidelines: We welcome contributions from the community to enhance and expand this repository. Whether it's adding new templates, improving documentation, or fixing bugs, your contributions are invaluable in making this resource more useful for everyone.
 
 No more digging through scattered resources or struggling with setup configurations. With the Project Starter Kit, you can jumpstart your hardware projects with confidence, knowing that you have everything you need right at your fingertips.
 
