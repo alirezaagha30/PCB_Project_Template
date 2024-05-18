@@ -18,3 +18,6 @@ Contributing Guidelines: We welcome contributions from the community to enhance 
 No more digging through scattered resources or struggling with setup configurations. With the Project Starter Kit, you can jumpstart your hardware projects with confidence, knowing that you have everything you need right at your fingertips.
 
 Let's make hardware project setup hassle-free and enjoyable. Happy building!
+
+
+a
